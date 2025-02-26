@@ -1,0 +1,30 @@
+              MONTHLY POWER PRODUCTION SUMMARY FOR: JUL 2023
+                                              Net                     Net
+                     Total      Station   Generation     Power    Generation
+  Project         Generation      Use       to BPA      Aux Use     to FERC
+----------------  ----------  ----------  ----------  ----------  ----------
+Dworshak              321534         507      321026         507      321026
+Albeni Falls           19334         148       19186         148       19186
+Big Cliff               2765          15        2750          15        2750
+Bonneville            126595        2976      123619        2232      124363
+Cougar                  5250          46        5204          46        5204
+Detroit                11675         136       11538         136       11538
+Dexter                  5854          18        5836          18        5836
+Green Peter            13769          47       13722          47       13722
+Hills Creek             4417          35        4382          35        4382
+John Day              516745        1409      515336         986      515759
+Lookout Point          18109          74       18035          74       18035
+McNary                236401        2976      233425         820      210981
+The Dalles            331612         744      330868         551      331061
+Chief Joseph          942778         832      941946         832      941946
+Ice Harbor            133854        1831      132023         366      133488
+Little Goose          118751         463      118287         278      118473
+Lower Monumental       97326         564       96762         338       96988
+Libby                 158109         395      157715         395      157715
+Lost Creek             25644          65       25579          29       25615
+Lower Granite         101388        1172      100216         469      100919
+Foster                  3965          69        3896          69        3896
+Grand Coulee         1728627        7054     1721573        7054     1721573
+Hungry Horse           44598           0       44598           0       44598
+
+TOTAL                4969100       21576     4947524       15445     4929055

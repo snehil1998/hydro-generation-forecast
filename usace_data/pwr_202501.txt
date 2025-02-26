@@ -1,0 +1,30 @@
+              MONTHLY POWER PRODUCTION SUMMARY FOR: JAN 2025
+                                              Net                     Net
+                     Total      Station   Generation     Power    Generation
+  Project         Generation      Use       to BPA      Aux Use     to FERC
+----------------  ----------  ----------  ----------  ----------  ----------
+Dworshak               48459         733       47726         733       47726
+Albeni Falls           12724         205       12519         205       12519
+Big Cliff              11983          12       11971          12       11971
+Bonneville            455441        2976      452465        2232      453209
+Cougar                 14818          99       14719          99       14719
+Detroit                15314         196       15117         196       15117
+Dexter                 10538          35       10503          35       10503
+Green Peter            30602          62       30540          62       30540
+Hills Creek            14593          59       14534          59       14534
+John Day              757732        1638      756094        1146      756586
+Lookout Point          71486         153       71333         153       71333
+McNary                480704        1784      478920         820      455284
+The Dalles            613620        1488      612132        1101      612519
+Chief Joseph          865767        1111      864656        1111      864656
+Ice Harbor            156260        1220      155040         244      156016
+Little Goose          149500         768      148732         461      149039
+Lower Monumental      155379         562      154816         337      155041
+Libby                  73789         843       72946         843       72946
+Lost Creek             24636         526       24110         231       24405
+Lower Granite         152602         708      151895         283      152319
+Foster                  9952          93        9859          93        9859
+Grand Coulee         1600706        6078     1594628        6078     1594628
+Hungry Horse           66905           0       66905           0       66905
+
+TOTAL                5793510       21349     5772161       16535     5752375
